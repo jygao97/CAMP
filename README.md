@@ -1,4 +1,4 @@
-# pytorch implementation for the CAMP model in ICDM2019 submission DM280
+## pytorch implementation for the CAMP model in ICDM2019 paper "CAMP: Co-Attention Memory Networks for Diagnosis Prediction in Healthcare"
 ## Packages
 - python 3.6
 - torch 1.0.1
